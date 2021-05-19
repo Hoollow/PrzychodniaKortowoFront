@@ -27,5 +27,6 @@ import { DemoApisComponent } from './demo-apis/demo-apis.component';
   ],
   providers: [],
   bootstrap: [AppComponent],
+  exports: [],
 })
 export class AppModule {}
